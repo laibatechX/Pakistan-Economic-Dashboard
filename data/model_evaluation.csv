@@ -1,0 +1,4 @@
+Indicator,MAE,RMSE,R2_Score,MAPE_Pct,Accuracy_Pct
+GDP (Billion USD),21.619,23.263,0.2449,6.5,93.5
+Inflation (%),7.563,11.028,-0.5899,30.42,69.58
+Population (Millions),0.871,0.934,0.9599,0.36,99.64

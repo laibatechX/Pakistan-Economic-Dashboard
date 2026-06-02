@@ -1,0 +1,88 @@
+Year,Type,Indicator,Label,Value
+2024,Forecast,GDP_BillionUSD,GDP (Billion USD),344.754
+2025,Forecast,GDP_BillionUSD,GDP (Billion USD),354.963
+2026,Forecast,GDP_BillionUSD,GDP (Billion USD),365.272
+2027,Forecast,GDP_BillionUSD,GDP (Billion USD),375.585
+2028,Forecast,GDP_BillionUSD,GDP (Billion USD),385.898
+2000,Actual,GDP_BillionUSD,GDP (Billion USD),99.48
+2001,Actual,GDP_BillionUSD,GDP (Billion USD),97.15
+2002,Actual,GDP_BillionUSD,GDP (Billion USD),97.92
+2003,Actual,GDP_BillionUSD,GDP (Billion USD),112.37
+2004,Actual,GDP_BillionUSD,GDP (Billion USD),132.22
+2005,Actual,GDP_BillionUSD,GDP (Billion USD),145.21
+2006,Actual,GDP_BillionUSD,GDP (Billion USD),161.87
+2007,Actual,GDP_BillionUSD,GDP (Billion USD),184.14
+2008,Actual,GDP_BillionUSD,GDP (Billion USD),202.2
+2009,Actual,GDP_BillionUSD,GDP (Billion USD),187.34
+2010,Actual,GDP_BillionUSD,GDP (Billion USD),196.71
+2011,Actual,GDP_BillionUSD,GDP (Billion USD),230.59
+2012,Actual,GDP_BillionUSD,GDP (Billion USD),250.11
+2013,Actual,GDP_BillionUSD,GDP (Billion USD),258.66
+2014,Actual,GDP_BillionUSD,GDP (Billion USD),271.39
+2015,Actual,GDP_BillionUSD,GDP (Billion USD),299.96
+2016,Actual,GDP_BillionUSD,GDP (Billion USD),313.63
+2017,Actual,GDP_BillionUSD,GDP (Billion USD),339.21
+2018,Actual,GDP_BillionUSD,GDP (Billion USD),356.13
+2019,Actual,GDP_BillionUSD,GDP (Billion USD),320.91
+2020,Actual,GDP_BillionUSD,GDP (Billion USD),300.43
+2021,Actual,GDP_BillionUSD,GDP (Billion USD),348.52
+2022,Actual,GDP_BillionUSD,GDP (Billion USD),374.89
+2023,Actual,GDP_BillionUSD,GDP (Billion USD),336.69
+2024,Forecast,Inflation_Pct,Inflation (%),32.366
+2025,Forecast,Inflation_Pct,Inflation (%),33.534
+2026,Forecast,Inflation_Pct,Inflation (%),34.683
+2027,Forecast,Inflation_Pct,Inflation (%),35.831
+2028,Forecast,Inflation_Pct,Inflation (%),36.979
+2000,Actual,Inflation_Pct,Inflation (%),4.367
+2001,Actual,Inflation_Pct,Inflation (%),3.148
+2002,Actual,Inflation_Pct,Inflation (%),3.29
+2003,Actual,Inflation_Pct,Inflation (%),2.914
+2004,Actual,Inflation_Pct,Inflation (%),7.445
+2005,Actual,Inflation_Pct,Inflation (%),9.063
+2006,Actual,Inflation_Pct,Inflation (%),7.921
+2007,Actual,Inflation_Pct,Inflation (%),7.599
+2008,Actual,Inflation_Pct,Inflation (%),20.286
+2009,Actual,Inflation_Pct,Inflation (%),13.648
+2010,Actual,Inflation_Pct,Inflation (%),12.939
+2011,Actual,Inflation_Pct,Inflation (%),11.916
+2012,Actual,Inflation_Pct,Inflation (%),9.682
+2013,Actual,Inflation_Pct,Inflation (%),7.692
+2014,Actual,Inflation_Pct,Inflation (%),7.189
+2015,Actual,Inflation_Pct,Inflation (%),2.529
+2016,Actual,Inflation_Pct,Inflation (%),3.765
+2017,Actual,Inflation_Pct,Inflation (%),4.085
+2018,Actual,Inflation_Pct,Inflation (%),5.078
+2019,Actual,Inflation_Pct,Inflation (%),10.578
+2020,Actual,Inflation_Pct,Inflation (%),9.74
+2021,Actual,Inflation_Pct,Inflation (%),9.496
+2022,Actual,Inflation_Pct,Inflation (%),19.874
+2023,Actual,Inflation_Pct,Inflation (%),30.768
+2024,Forecast,Population_Millions,Population (Millions),251.334
+2025,Forecast,Population_Millions,Population (Millions),255.196
+2026,Forecast,Population_Millions,Population (Millions),259.082
+2027,Forecast,Population_Millions,Population (Millions),262.99
+2028,Forecast,Population_Millions,Population (Millions),266.915
+2000,Actual,Population_Millions,Population (Millions),154.88
+2001,Actual,Population_Millions,Population (Millions),159.27
+2002,Actual,Population_Millions,Population (Millions),163.22
+2003,Actual,Population_Millions,Population (Millions),167.11
+2004,Actual,Population_Millions,Population (Millions),171.29
+2005,Actual,Population_Millions,Population (Millions),175.45
+2006,Actual,Population_Millions,Population (Millions),179.68
+2007,Actual,Population_Millions,Population (Millions),184.49
+2008,Actual,Population_Millions,Population (Millions),189.5
+2009,Actual,Population_Millions,Population (Millions),194.38
+2010,Actual,Population_Millions,Population (Millions),199.24
+2011,Actual,Population_Millions,Population (Millions),203.75
+2012,Actual,Population_Millions,Population (Millions),207.67
+2013,Actual,Population_Millions,Population (Millions),211.07
+2014,Actual,Population_Millions,Population (Millions),214.26
+2015,Actual,Population_Millions,Population (Millions),217.29
+2016,Actual,Population_Millions,Population (Millions),220.14
+2017,Actual,Population_Millions,Population (Millions),223.27
+2018,Actual,Population_Millions,Population (Millions),226.93
+2019,Actual,Population_Millions,Population (Millions),230.8
+2020,Actual,Population_Millions,Population (Millions),235.0
+2021,Actual,Population_Millions,Population (Millions),239.48
+2022,Actual,Population_Millions,Population (Millions),243.7
+2023,Actual,Population_Millions,Population (Millions),247.5
